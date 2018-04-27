@@ -1,0 +1,52 @@
+//Colors
+
+//main color pallete
+$color-primary: #05a0ff;
+$color-primary-light: #5ec2ff;
+$color-primary-dark: #0475ba;
+
+$color-secondary: #16cf8e;
+$color-secondary-light: #6AE0B7;
+$color-secondary-dark: #119768;
+
+//supporting colors
+$color-grey-light-1: #f7f7f7;
+$color-grey-light-2: #eee;
+$color-grey-dark: #777;
+$color-grey-dark-2: #999;
+$color-grey-dark-3: #333;
+$color-white: #fff;
+$color-black: #000;
+
+
+//shadows
+$photo-hover-shadow: 0 2.5rem 4rem rgba($color-black, .5);
+$photo-shadow: 0 1.5rem 4rem rgba($color-black, .40);
+$card-shadow: 0 1.5rem 4rem rgba($color-black, .15);
+$card-shadow-darker: 0 1.5rem 4rem rgba($color-black, .2);
+$form-shadow: 0 1rem 2rem rgba($color-black, .1);
+
+//Transitions
+$default-transition: all .2s;
+$three-transition: all .3s;
+$list-transition: all .4s;
+$smooth-transition: all .8s ease-in-out;
+
+//Fonts
+$default-font-size: 1.6rem; //standard font size
+
+//Border Radius
+$radius-default: 3px;
+
+//Grid
+$grid-width: 114rem;
+$gutter-vertical: 8rem;
+$gutter-horizontal: 6rem;
+
+//Gradients
+$gradient-primary: linear-gradient(to right bottom, $color-primary-light, $color-primary-dark);
+$gradient-secondary: linear-gradient(to right bottom, $color-secondary-light, $color-secondary-dark);
+$gradient-tertiary: linear-gradient(to right bottom, $color-tertiary-light, $color-tertiary-dark);
+$solid-gradient: linear-gradient(105deg, rgba($color-white, .9) 0%, rgba($color-white, .9) 50%, transparent 50%);
+$solid-gradient-2: linear-gradient(120deg, transparent 0%, transparent 50%, $color-white 50%);
+$radial_gradient: radial-gradient( $color-primary-light, $color-primary-dark);
