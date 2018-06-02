@@ -1,0 +1,48 @@
+/* Most commonly used CSS font*/
+
+
+<link href="https://fonts.googleapis.com/css?family=Abel|Advent+Pro|Anaheim|Anton|Arimo|Barlow+Condensed|Barlow+Semi+Condensed|BenchNine|Cabin|Dosis|Economica|Fjalla+One|IBM+Plex+Sans|Jua|Julius+Sans+One|Jura|Lato|Montserrat|Montserrat+Alternates|Muli|Nanum+Gothic|Noto+Sans|Open+Sans|Open+Sans+Condensed:300|Oswald|Oxygen|PT+Sans|Paytone+One|Poppins|Pragati+Narrow|Quicksand|Raleway|Roboto|Roboto+Condensed|Rubik|Source+Sans+Pro|Sunflower:300|Titillium+Web|Ubuntu|Yanone+Kaffeesatz" rel="stylesheet">
+
+
+body {
+  font-family: 'Roboto', sans-serif;
+font-family: 'Sunflower', sans-serif;
+font-family: 'Open Sans', sans-serif;
+font-family: 'Lato', sans-serif;
+font-family: 'Roboto Condensed', sans-serif;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Oswald', sans-serif;
+font-family: 'Source Sans Pro', sans-serif;
+font-family: 'Raleway', sans-serif;
+font-family: 'PT Sans', sans-serif;
+font-family: 'Open Sans Condensed', sans-serif;
+font-family: 'IBM Plex Sans', sans-serif;
+font-family: 'Ubuntu', sans-serif;
+font-family: 'Noto Sans', sans-serif;
+font-family: 'Titillium Web', sans-serif;
+font-family: 'Poppins', sans-serif;
+font-family: 'Anaheim', sans-serif;
+font-family: 'Muli', sans-serif;
+font-family: 'Arimo', sans-serif;
+font-family: 'Dosis', sans-serif;
+font-family: 'Nanum Gothic', sans-serif;
+font-family: 'Oxygen', sans-serif;
+font-family: 'Anton', sans-serif;
+font-family: 'Cabin', sans-serif;
+font-family: 'Quicksand', sans-serif;
+font-family: 'Fjalla One', sans-serif;
+font-family: 'Rubik', sans-serif;
+font-family: 'Yanone Kaffeesatz', sans-serif;
+font-family: 'Abel', sans-serif;
+font-family: 'Jua', sans-serif;
+font-family: 'BenchNine', sans-serif;
+font-family: 'Economica', sans-serif;
+font-family: 'Barlow Condensed', sans-serif;
+font-family: 'Jura', sans-serif;
+font-family: 'Pragati Narrow', sans-serif;
+font-family: 'Advent Pro', sans-serif;
+font-family: 'Julius Sans One', sans-serif;
+font-family: 'Montserrat Alternates', sans-serif;
+font-family: 'Paytone One', sans-serif;
+font-family: 'Barlow Semi Condensed', sans-serif;
+}
